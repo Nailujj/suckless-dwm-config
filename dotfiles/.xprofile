@@ -1,0 +1,7 @@
+
+
+
+slstatus &
+feh --bg-fill Pictures/forest_deep.jpg &
+picom --config ~/.config/picom/picom.conf &
+slstatus &
