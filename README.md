@@ -1,4 +1,3 @@
-Verstanden! Hier ist eine nüchterne, technisch saubere Version des `README.md`, ohne Emojis und mit einem einzigen Installationsbefehl für alle Abhängigkeiten:
 
 ---
 
